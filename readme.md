@@ -4,7 +4,7 @@ This project is a responsive cryptocurrency landing page that fetches live price
 
 🚀 Live Preview
 
-(image.png)
+<img src="image.png" class="MyWebsite">
 
 🔗 Features
 
