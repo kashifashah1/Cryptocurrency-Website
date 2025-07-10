@@ -1,6 +1,6 @@
 💰 Cryptocurrency Website Design - Kashifa Shah
 
-This project is a responsive cryptocurrency landing page that fetches live prices of popular cryptocurrencies using the CoinGecko API. It is designed with HTML, CSS, JavaScript (jQuery), and focuses on sleek UI and real-time data display.
+This project is a responsive cryptocurrency landing page that fetches live prices of popular cryptocurrencies using the CoinGecko API. It is designed with HTML, CSS, JavaScript (jQuery), and focuses on sleek UI and real-time data display. especially for desktop
 
 🚀 Live Preview
 
